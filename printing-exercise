@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main (void) {
 // output "Hello World!" to the console
-printf ("Hello, world!/n") ;
+printf ("Hello, world!/n");
 }
 /*This is a preview of what a multiline comment is. Here, I'm practicing the information on 
 the free code webpage. In theory, #include <stdio.h> would be the basic library from which we
